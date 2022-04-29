@@ -7,4 +7,5 @@
 
 ### 🏝保持热爱、奔赴山海
 
-![info](https://github-readme-stats.vercel.app/api?username=BlackBerry009&show_icons=true&count_private=true&hide=prs&theme=default_repocard)![BlackBerry009's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=BlackBerry009&layout=compact&theme=buefy&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattn&hide=html)
+![BlackBerry's github stats](https://github-readme-stats.vercel.app/api?username=mattn&show_icons=true&count_private=true&line_height=40)
